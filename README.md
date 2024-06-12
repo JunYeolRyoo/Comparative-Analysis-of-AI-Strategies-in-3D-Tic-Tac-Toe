@@ -1,1 +1,2 @@
 # Comparative-Analysis-of-AI-Strategies-in-3D-Tic-Tac-Toe
+This project involves the implementation and analysis of various algorithms for developing an artificial intelligence (AI) agent for the complex game of 3D tic-tac-toe (with 4x4x4 grids). The primary focus is on two main algorithms: Monte Carlo Tree Search (MCTS) and Minimax with Alpha-Beta Pruning. This project includes comparative evaluations of these algorithms to determine the most effective approach for the 3D tic-tac-toe game.
